@@ -5,7 +5,7 @@ import '../components/styles/item.css';
 
 
 import { Link } from "react-router-dom"
-import ItemCounter from "../components/ItemCounter/ItemCounter"
+import ItemCounter from "./ItemCounter/ItemCounter"
 
 
 function Item({product}) {
